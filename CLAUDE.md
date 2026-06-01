@@ -7,7 +7,7 @@
 - `tier: infra`
 
 ## Project Location
-/opt/claude-code-costguard
+/opt/hydra-costguard
 
 ## Purpose
 Open-source toolkit for reducing Claude Code session costs by 40-70% through

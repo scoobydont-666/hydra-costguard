@@ -77,8 +77,8 @@ costguard/
 ### Option 1: Full Install
 
 ```bash
-git clone https://github.com/your-github-user/claude-code-costguard.git
-cd claude-code-costguard
+git clone https://github.com/your-github-user/hydra-costguard.git
+cd hydra-costguard
 chmod +x install.sh
 ./install.sh --all
 ```
@@ -86,8 +86,8 @@ chmod +x install.sh
 ### Option 2: Skills Only (no build required)
 
 ```bash
-git clone https://github.com/your-github-user/claude-code-costguard.git
-cd claude-code-costguard
+git clone https://github.com/your-github-user/hydra-costguard.git
+cd hydra-costguard
 ./install.sh --skills-only
 ```
 
